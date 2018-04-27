@@ -1,0 +1,79 @@
+.logo {
+  text-align: center;
+}
+
+.logo:hover {
+  color: skyblue;
+  text-decoration-color: pink;
+}
+
+#column {
+  float: right;
+}
+
+.column {
+  float: left;
+}
+
+#images {
+  float: left;
+}
+
+#img {
+  float: right;
+}
+
+.logo {
+  background-image: url("../images/backgrounds/landing.jpg");
+  margin-bottom: auto;
+  background-size: cover;
+  background-size: auto;
+}
+
+.breakfast {
+  background-image: url("../images/foodtop/breakfast.jpg");
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 250px;
+}
+
+.lunch {
+  background-image: url("../images/foodtop/lunch.jpg");
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 250px;
+}
+
+.dinner {
+  background-image: url("../images/foodtop/dinner.jpg");
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 250px;
+}
+
+.format {
+  background-image: url("../images/backgrounds/foodsBg.jpg");
+  background-repeat: no-repeat;
+  height: 1000px;
+  width: auto;
+}
+
+.panel {
+  border: 20%;
+}
+
+#customers:hover {
+  position: relative;
+  width: inherit;
+}
+
+.footer {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #ffffff;
+}
+
+.python {
+  background-image: url("../images/backgrounds/subscribe.jpg");
+}
