@@ -44,6 +44,11 @@
 .breakfast:hover {
   color: skyblue;
   text-decoration-color: pink;
+<<<<<<< HEAD
+=======
+  text-align: center;
+  font-size: 28px;
+>>>>>>> gh-pages
 }
 
 .lunch {
@@ -58,6 +63,11 @@
 .lunch:hover {
   color: skyblue;
   text-decoration-color: pink;
+<<<<<<< HEAD
+=======
+  text-align: center;
+  font-size: 28px;
+>>>>>>> gh-pages
 }
 
 .dinner {
@@ -72,12 +82,17 @@
 .dinner:hover {
   color: skyblue;
   text-decoration-color: pink;
+<<<<<<< HEAD
+=======
+  text-align: center;
+  font-size: 28px;
+>>>>>>> gh-pages
 }
 
 .format {
   background-image: url("../images/backgrounds/foodsBg.jpg");
   background-repeat: no-repeat;
-  height: 1000px;
+  height: 500px;
   width: auto;
 }
 
