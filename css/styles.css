@@ -31,16 +31,23 @@
 }
 
 .breakfast {
+  text-align: center;
+  font-size: 28px;
   background-image: url("../images/foodtop/breakfast.jpg");
   background-repeat: no-repeat;
-  width: 250px;
+  width: 300px;
   height: 250px;
+}
+
+.breakfast:hover {
+  color: skyblue;
+  text-decoration-color: pink;
 }
 
 .lunch {
   background-image: url("../images/foodtop/lunch.jpg");
   background-repeat: no-repeat;
-  width: 250px;
+  width: 300px;
   height: 250px;
 }
 
@@ -76,4 +83,7 @@
 
 .python {
   background-image: url("../images/backgrounds/subscribe.jpg");
+  width: 2000px;
+  height: auto;
+  background-repeat: no-repeat;
 }
