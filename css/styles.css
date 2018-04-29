@@ -37,11 +37,25 @@
   height: 250px;
 }
 
+.breakfast:hover {
+  color: skyblue;
+  text-decoration-color: pink;
+  text-align: center;
+  font-size: 28px;
+}
+
 .lunch {
   background-image: url("../images/foodtop/lunch.jpg");
   background-repeat: no-repeat;
   width: 250px;
   height: 250px;
+}
+
+.lunch:hover {
+  color: skyblue;
+  text-decoration-color: pink;
+  text-align: center;
+  font-size: 28px;
 }
 
 .dinner {
@@ -51,10 +65,17 @@
   height: 250px;
 }
 
+.dinner:hover {
+  color: skyblue;
+  text-decoration-color: pink;
+  text-align: center;
+  font-size: 28px;
+}
+
 .format {
   background-image: url("../images/backgrounds/foodsBg.jpg");
   background-repeat: no-repeat;
-  height: 1000px;
+  height: 500px;
   width: auto;
 }
 
