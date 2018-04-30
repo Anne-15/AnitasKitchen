@@ -1,5 +1,5 @@
-# AnitasKitchen 
-##Description
+ AnitasKitchen
+Description
 **This is a project about Anita's kitchen that tells you all about it. It includes the full information about what to expect in the restaurant and the services at the restaurant.
 ## Setup/Installation Requirements
 The setup instructions are as follows:
