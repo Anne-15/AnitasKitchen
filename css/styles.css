@@ -123,3 +123,33 @@
   font-size: 28px;
   padding: 20px;
 }
+
+.daily form input {
+  type="submit"
+}
+
+  {
+  background: #F25A29;
+  color: #fff;
+  padding: 0.5em 3em;
+  font-size: 20px;
+  font-family: 'aleolight';
+  display: block;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -o-border-radius: 3px;
+  -msborder-radius: 3px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.daily form input {
+  type="submit"
+}
+
+.text-filed-email {
+  text-align: right;
+}
