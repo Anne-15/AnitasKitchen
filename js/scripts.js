@@ -1,6 +1,5 @@
 $(document).ready(function() {
   $("button#orange").click(function() {
-    ("p").append("View gallery");
     alert("Thank you for your time.");
   });
 });
