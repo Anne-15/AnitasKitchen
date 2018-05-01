@@ -1,6 +1,7 @@
-.document.ready(function() {
-  ("button#orange").click(function() {
-    ("ul").append("<li>View gallery</li>");
+$(document).ready(function() {
+  $("button#orange").click(function() {
+    ("p").append("View gallery");
+    alert("Thank you for your time.");
   });
 });
 $(document).ready(function() {

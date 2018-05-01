@@ -53,7 +53,7 @@
   background-image: url("../images/foodtop/lunch.jpg");
   background-repeat: no-repeat;
   padding: 20px;
-  width: 300px;
+  width: 250px;
   height: 250px;
 }
 
@@ -81,15 +81,11 @@
   font-size: 28px;
 }
 
-.format {
+.panel {
   background-image: url("../images/backgrounds/foodsBg.jpg");
   background-repeat: no-repeat;
   height: 500px;
   width: auto;
-}
-
-.panel {
-  border: 20%;
 }
 
 #customers:hover {
@@ -152,4 +148,28 @@
 
 .text-filed-email {
   text-align: right;
+}
+
+.panel-body {
+  padding: 33px;
+  margin: 169px;
+  background-color: white;
+}
+
+.nav-tabs {
+  border-bottom: 0px;
+}
+
+.nav {
+  padding-left: 169px;
+  margin-bottom: -168px;
+}
+
+#contact us {
+  padding: 0px;
+  margin: 9px;
+  padding-left: 80px;
+  padding-right: 63px;
+  margin-left: 334px;
+  ss margin-right: -339px;
 }
